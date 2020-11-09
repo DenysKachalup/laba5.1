@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\AP\LABAP\5\laba5.1\UnitTest1\UnitTest1.cpp(17,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека D:\AP\LABAP\5\laba5.1\Debug\UnitTest1.lib и объект D:\AP\LABAP\5\laba5.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\AP\LABAP\5\laba5.1\Debug\UnitTest1.dll
